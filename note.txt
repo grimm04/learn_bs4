@@ -1,0 +1,8 @@
+https://infopemilu.kpu.go.id/Pemilu/Dct_dpr/profile
+
+1. instal beaoutifulsoup
+    pip install beaoutifulsoup4
+2. instal pharser xml
+    pip install lxml
+3. import beaoutifulsoup in main.py
+    from bs4 import BeaoutifulSoup
